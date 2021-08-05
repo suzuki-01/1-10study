@@ -23,9 +23,6 @@ main {
   background-color: #eee;
 }
 
-.step-box:last-child {
-  margin-right: 0;
-}
 
 .step-img1 {
   height: 150px;
@@ -71,19 +68,21 @@ footer {
   header {
     width: 100%;
     height:50px;
-    padding-
   }
 
 main{
-    width: 90%;
+    width: 100%;
     display: block;
     padding-bottom:50px;
   }
 
 .step-box{
   width: 90%;
-  margin: 0 0 20px 0;
+   margin: 0 auto;
   padding-top:10px;
+  width: 80%;
+  margin-top:20px;
+  
 
 }
 .step-img1{
